@@ -1,5 +1,5 @@
 Contacto:
- [LinkedIn - Aguirre Analia](https://www.linkedin.com/in/analiaaguirre/).
+ [LinkedIn - Aguirre Analia](https://www.linkedin.com/in/analiaaguirre/) o
  [Email](aguirreanalia.dev@gmail.com).
 
 # SOFWARE VERDULERÍA EXPRESS
